@@ -12,9 +12,17 @@
 
 Soy Martín, desarrollador trabajando desde España en **Creawebes**. Siempre busco las mejores prácticas y arquitecturas limpias para construir software que sea funcional, seguro y escalable. 
 
-Tengo experiencia tanto en el desarrollo web tradicional (PHP, JavaScript) como en aplicaciones modernas multiplataforma, priorizando siempre la calidad del código y la buena arquitectura.
+Tengo experiencia tanto en el desarrollo web tradicional (PHP, JavaScript) como en aplicaciones modernas multiplataforma, priorizando siempre la calidad del código, la buena arquitectura y el uso de Inteligencia Artificial como aliado para el desarrollo avanzado.
 
-## Stack
+## Formación 🎓
+
+* **Máster en Desarrollo con IA** — BIG school + Universidad Isabel I (2026)
+  * Doble titulación (certificación profesional + universitaria, 6 ECTS).
+  * +200 horas, +80 módulos: Fundamentos, Ingeniería, Arquitectura, IA, Calidad, Seguridad (OWASP), Infraestructura/Cloud.
+* **Programador PHP** — Escuela BIOS Uruguay.
+* **Diseñador Gráfico** — Escuela Master Barcelona.
+
+## Stack 💻
 
 <div align="center">
 
@@ -31,18 +39,18 @@ Tengo experiencia tanto en el desarrollo web tradicional (PHP, JavaScript) como 
 
 ### Infraestructura y herramientas
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub Profile](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
-## Proyectos destacados
+## Proyectos destacados 🚀
 
 | Aplicación | Detalle |
 | --- | --- |
 | **Creawebes** | [www.creawebes.com](http://www.creawebes.com) - Desarrollo de páginas web a medida y soluciones digitales. |
-| **Galería Nico** | [Ver Repositorio](https://github.com/20Luisma/Galeria-Nico) - App móvil desarrollada en Dart/Flutter. |
-| **Viajando con Marta** | [Ver Repositorio](https://github.com/20Luisma/Viajando-con-Marta) - App móvil desarrollada en Dart/Flutter. |
+| **Galería Nico** | [Ver Repositorio](https://github.com/20Luisma/Galeria-Nico) - App móvil en Dart/Flutter. **Publicada en Google Play (Android) y App Store (iOS).** |
+| **Viajando con Marta** | [Ver Repositorio](https://github.com/20Luisma/Viajando-con-Marta) - App móvil en Dart/Flutter. **Publicada en Google Play (Android) y App Store (iOS).** |
 
 ---
 
