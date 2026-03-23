@@ -74,11 +74,27 @@ Combino mi formación en diseño gráfico con el desarrollo técnico, lo que me 
 
 ## Proyectos destacados 🚀
 
+### Marvel — Proyecto de arquitectura avanzada en PHP
+
+[Ver Repositorio](https://github.com/20Luisma/marvel) — Aplicación PHP 8.4 construida como demostración de buenas prácticas y arquitectura profesional.
+
+| Aspecto | Detalle |
+| --- | --- |
+| **Stack** | PHP 8.4 + Clean Architecture + DDD |
+| **IA** | Microservicios OpenAI (RAG) + n8n |
+| **Testing** | PHPUnit + Playwright E2E + PHPStan |
+| **CI/CD** | GitHub Actions + Docker + Kubernetes (k8s) |
+| **Calidad** | SonarQube + CodeRabbit + Lighthouse |
+| **Patrones** | EventBus in-memory + JSON persistence |
+
+---
+
+### Aplicaciones Móviles — Publicadas en Google Play & App Store
+
 | Aplicación | Detalle |
 | --- | --- |
-| **Creawebes** | [www.creawebes.com](http://www.creawebes.com) - Desarrollo de páginas web a medida y soluciones digitales. |
-| **Galería Nico** | [Ver Repositorio](https://github.com/20Luisma/Galeria-Nico) — App móvil en Dart/Flutter. **Publicada en Google Play y App Store.** |
-| **Viajando con Marta** | [Ver Repositorio](https://github.com/20Luisma/Viajando-con-Marta) — App móvil en Dart/Flutter. **Publicada en Google Play y App Store.** |
+| **Galería Nico** | [Ver Repositorio](https://github.com/20Luisma/Galeria-Nico) — App móvil en Dart/Flutter. Publicada en Google Play y App Store. |
+| **Viajando con Marta** | [Ver Repositorio](https://github.com/20Luisma/Viajando-con-Marta) — App móvil en Dart/Flutter. Publicada en Google Play y App Store. |
 
 ---
 
