@@ -14,6 +14,17 @@ Soy Martín, desarrollador trabajando desde España en **Creawebes**. Siempre bu
 
 Tengo experiencia tanto en el desarrollo web tradicional (PHP, JavaScript) como en aplicaciones modernas multiplataforma, priorizando siempre la calidad del código, la buena arquitectura, metodologías de testing y el uso de Inteligencia Artificial como aliado para el desarrollo avanzado.
 
+## Experiencia Profesional 💼
+
+* **Desarrollador Full Stack & Móvil | Creawebes** *(Actualidad)*
+  * Lidero el desarrollo integral de aplicaciones web, e-commerce y soluciones digitales a medida para clientes corporativos.
+  * Diseño e integración de plataformas escalables usando ecosistemas modernos (PHP, Vue.js, Tailwind).
+  * Gestión completa del ciclo de vida del software: desde la arquitectura de bases de datos hasta el despliegue en producción y automatización.
+
+* **Desarrollador Freelance & Consultor Tecnológico**
+  * Creación de herramientas de automatización y servicios empresariales complejos.
+  * Desarrollo iterativo de aplicaciones móviles multiplataforma nativas (Android y iOS), aplicando Clean Architecture y testing al código.
+
 ## Formación 🎓
 
 * **Máster en Desarrollo con IA** — BIG school + Universidad Isabel I (2026)
