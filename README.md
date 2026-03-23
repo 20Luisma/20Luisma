@@ -18,6 +18,8 @@ Soy Martín, desarrollador y fundador de **Creawebes**. Empecé en el mundo digi
 
 Combino mi formación en diseño gráfico con el desarrollo técnico, lo que me permite tener una visión integral de cada proyecto: desde la arquitectura hasta la experiencia visual del usuario final.
 
+🔭 Actualmente ampliando stack con **Symfony, Docker, TDD y agentes IA**
+
 ## Experiencia Profesional 💼
 
 * **Fundador & Desarrollador Full Stack | Creawebes** *(2008 · Desde 2023)*
@@ -95,6 +97,15 @@ Combino mi formación en diseño gráfico con el desarrollo técnico, lo que me 
 | --- | --- |
 | **Galería Nico** | [Ver Repositorio](https://github.com/20Luisma/Galeria-Nico) — App móvil en Dart/Flutter. Publicada en Google Play y App Store. |
 | **Viajando con Marta** | [Ver Repositorio](https://github.com/20Luisma/Viajando-con-Marta) — App móvil en Dart/Flutter. Publicada en Google Play y App Store. |
+
+---
+
+## GitHub Stats 📊
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=20Luisma&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=20Luisma&layout=compact&theme=dark&hide_border=true" height="165" />
+</div>
 
 ---
 
