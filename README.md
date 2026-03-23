@@ -1,29 +1,33 @@
 # Martín Pallante
 
-**Desarrollador Web & Móvil | Creawebes**
+**Desarrollador Web & Móvil | PHP + Flutter + Vue.js**
+
+> Construyendo soluciones digitales desde 2008. De vuelta con todo desde 2023, ampliando stack con TypeScript, Docker, TDD e integración con IA.
 
 <div align="center">
-  <img src="https://img.shields.io/badge/EXPERIENCIA-DISPONIBLE-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/EXPERIENCIA-DESDE%202008-informational?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DISPONIBLE-PROYECTOS-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📍_ESPAÑA-Creawebes-orange?style=for-the-badge" />
 </div>
 
 ---
 
 ## Sobre mí
 
-Soy Martín, desarrollador trabajando desde España en **Creawebes**. Siempre busco las mejores prácticas y arquitecturas limpias para construir software que sea funcional, seguro y escalable. 
+Soy Martín, desarrollador y fundador de **Creawebes**. Empecé en el mundo digital en 2008 y, tras un paréntesis, retomé con más fuerza en 2023 incorporando tecnologías modernas y metodologías actuales al día a día.
 
-Tengo experiencia tanto en el desarrollo web tradicional (PHP, JavaScript) como en aplicaciones modernas multiplataforma, priorizando siempre la calidad del código, la buena arquitectura, metodologías de testing y el uso de Inteligencia Artificial como aliado para el desarrollo avanzado.
+Combino mi formación en diseño gráfico con el desarrollo técnico, lo que me permite tener una visión integral de cada proyecto: desde la arquitectura hasta la experiencia visual del usuario final.
 
 ## Experiencia Profesional 💼
 
-* **Desarrollador Full Stack & Móvil | Creawebes** *(Actualidad)*
-  * Lidero el desarrollo integral de aplicaciones web, e-commerce y soluciones digitales a medida para clientes corporativos.
-  * Diseño e integración de plataformas escalables usando ecosistemas modernos (PHP, Vue.js, Tailwind).
-  * Gestión completa del ciclo de vida del software: desde la arquitectura de bases de datos hasta el despliegue en producción y automatización.
+* **Fundador & Desarrollador Full Stack | Creawebes** *(2008 · Desde 2023)*
+  * Desarrollo integral de aplicaciones web, e-commerce y soluciones digitales a medida.
+  * Diseño e integración de plataformas escalables (PHP, Vue.js, Tailwind CSS).
+  * Gestión completa del ciclo de vida del software: desde la arquitectura hasta el despliegue.
 
-* **Desarrollador Freelance & Consultor Tecnológico**
-  * Creación de herramientas de automatización y servicios empresariales complejos.
-  * Desarrollo iterativo de aplicaciones móviles multiplataforma nativas (Android y iOS), aplicando Clean Architecture y testing al código.
+* **Desarrollador Móvil Multiplataforma** *(Actualidad)*
+  * Desarrollo de apps nativas (Android y iOS) con Dart/Flutter aplicando Clean Architecture.
+  * Publicación en Google Play Store y App Store.
 
 ## Formación 🎓
 
@@ -73,8 +77,8 @@ Tengo experiencia tanto en el desarrollo web tradicional (PHP, JavaScript) como 
 | Aplicación | Detalle |
 | --- | --- |
 | **Creawebes** | [www.creawebes.com](http://www.creawebes.com) - Desarrollo de páginas web a medida y soluciones digitales. |
-| **Galería Nico** | [Ver Repositorio](https://github.com/20Luisma/Galeria-Nico) - App móvil en Dart/Flutter. **Publicada en Google Play (Android) y App Store (iOS).** |
-| **Viajando con Marta** | [Ver Repositorio](https://github.com/20Luisma/Viajando-con-Marta) - App móvil en Dart/Flutter. **Publicada en Google Play (Android) y App Store (iOS).** |
+| **Galería Nico** | [Ver Repositorio](https://github.com/20Luisma/Galeria-Nico) — App móvil en Dart/Flutter. **Publicada en Google Play y App Store.** |
+| **Viajando con Marta** | [Ver Repositorio](https://github.com/20Luisma/Viajando-con-Marta) — App móvil en Dart/Flutter. **Publicada en Google Play y App Store.** |
 
 ---
 
