@@ -76,13 +76,27 @@ Combino mi formación en diseño gráfico con el desarrollo técnico, lo que me 
 
 ## Proyectos destacados 🚀
 
-### Marvel — Proyecto de arquitectura avanzada en PHP
+### ✈️ [Viajes Martín — Cazador Inteligente de Vuelos Chollo](https://github.com/20Luisma/ViajesMartin)
 
-[Ver Repositorio](https://github.com/20Luisma/marvel) — Aplicación PHP 8.4 construida como demostración de buenas prácticas y arquitectura profesional.
+[Ver Repositorio](https://github.com/20Luisma/ViajesMartin) · 🌐 [Ver Demo en Producción](https://contenido.creawebes.com/VuelosMartin/) — Aplicación autónoma de monitorización y alerta de vuelos económicos desde BCN (El Prat) optimizada bajo el principio de horas útiles vs precio.
 
 | Aspecto | Detalle |
 | --- | --- |
-| **Stack** | PHP 8.4 + Clean Architecture + DDD |
+| **Stack** | JavaScript (ES6+), PHP 8.2, PWA (Service Worker + Manifest), CSS Tokens |
+| **Scanners** | Multi-API (Ryanair FareFinder sin límites + Google Flights vía RapidAPI) |
+| **Resiliencia** | Pool rotativo multi-cuenta con fallback transparente ante cuotas 429/403 |
+| **Alertas & Automatización**| Bot de Telegram con push automático ante chollos nuevos + Cron diario en Hostinger |
+| **UX / UI** | Aviation Fintech Dark Mode, 100% Mobile Responsive táctil, filtros de tiempo útil |
+
+---
+
+### 🦸 [Marvel — Clean Architecture & Microservicios IA en PHP](https://github.com/20Luisma/marvel)
+
+[Ver Repositorio](https://github.com/20Luisma/marvel) — Aplicación PHP 8.4 construida como demostración de buenas prácticas y arquitectura profesional de grado empresarial.
+
+| Aspecto | Detalle |
+| --- | --- |
+| **Stack** | PHP 8.4 + Clean Architecture + DDD (Domain-Driven Design) |
 | **IA** | Microservicios OpenAI (RAG) + n8n |
 | **Testing** | PHPUnit + Playwright E2E + PHPStan |
 | **CI/CD** | GitHub Actions + Docker + Kubernetes (k8s) |
@@ -91,7 +105,18 @@ Combino mi formación en diseño gráfico con el desarrollo técnico, lo que me 
 
 ---
 
-### Aplicaciones Móviles — Publicadas en Google Play & App Store
+### 💰 [Gastos Naia — Sistema Financiero Multiplataforma](https://github.com/20Luisma/Gastos-Naia)
+
+[Ver Repositorio Backend](https://github.com/20Luisma/Gastos-Naia) · [Ver App Flutter](https://github.com/20Luisma/app_gastosnaia) — Panel de control y aplicación móvil para la administración, categorización y control de gastos en tiempo real.
+
+| Aspecto | Detalle |
+| --- | --- |
+| **Stack** | PHP, MySQL, Dart, Flutter (Android & iOS) |
+| **Arquitectura** | REST API desacoplada, gestión de presupuestos, sincronización en la nube |
+
+---
+
+### 📱 Aplicaciones Móviles — Publicadas en Google Play & App Store
 
 | Aplicación | Detalle |
 | --- | --- |
