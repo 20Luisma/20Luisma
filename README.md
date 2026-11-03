@@ -16,7 +16,7 @@
 
 ## Sobre mí
 
-Soy Martín, desarrollador y fundador de **Creawebes**. Empecé en el mundo digital en 2008 y, tras un paréntesis, retomé con más fuerza en 2023 incorporando tecnologías modernas y metodologías actuales al día a día.
+Soy Martín, desarrollador freelance y arquitecto de sistemas con IA. Desde 2008 construyo soluciones digitales a medida bajo **Creawebes Studio**. Retomé con toda la energía en 2023, incorporando agentes IA, automatización y metodologías de ingeniería modernas.
 
 Combino mi formación en diseño gráfico con el desarrollo técnico, lo que me permite tener una visión integral de cada proyecto: desde la arquitectura hasta la experiencia visual del usuario final.
 
