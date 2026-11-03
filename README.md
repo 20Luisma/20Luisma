@@ -1,12 +1,12 @@
 # Martín Pallante
 
-**Desarrollador Web & Móvil | PHP + Flutter + Vue.js**
+**Desarrollador Web & Móvil | PHP · Flutter · Vue.js · AI Agent Architecture**
 
-> Construyendo soluciones digitales desde 2008. De vuelta con todo desde 2023, ampliando stack con TypeScript, Docker, TDD e integración con IA.
+> Construyendo soluciones digitales desde 2008. Especializado en sistemas de automatización con agentes IA, protocolos de ingeniería propios y productos reales que resuelven problemas reales.
 
 <div align="center">
   <img src="https://img.shields.io/badge/EXPERIENCIA-DESDE%202008-informational?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/DISPONIBLE-PROYECTOS-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20AGENTS-GOD--MODE-blueviolet?style=for-the-badge" />
   <img src="https://img.shields.io/badge/📍_ESPAÑA-Creawebes-orange?style=for-the-badge" />
 </div>
 
@@ -18,7 +18,8 @@ Soy Martín, desarrollador y fundador de **Creawebes**. Empecé en el mundo digi
 
 Combino mi formación en diseño gráfico con el desarrollo técnico, lo que me permite tener una visión integral de cada proyecto: desde la arquitectura hasta la experiencia visual del usuario final.
 
-🔭 Actualmente ampliando stack con **Symfony, Docker, TDD y agentes IA**
+🤖 Construyendo **sistemas de agentes IA con memoria persistente** — protocolos propios de ingeniería, seguridad y deploy que aplican a cualquier proyecto
+🔭 Explorando: arquitectura multi-agente, orquestación de LLMs y automatización end-to-end
 
 ## Experiencia Profesional 💼
 
@@ -76,17 +77,18 @@ Combino mi formación en diseño gráfico con el desarrollo técnico, lo que me 
 
 ## Proyectos destacados 🚀
 
-### ✈️ [Viajes Martín — Cazador Inteligente de Vuelos Chollo](https://github.com/20Luisma/ViajesMartin)
+### ✈️ [Viajes Martín — AI-Powered Flight Deal Radar](https://github.com/20Luisma/ViajesMartin)
 
-[Ver Repositorio](https://github.com/20Luisma/ViajesMartin) · 🌐 [Ver Demo en Producción](https://contenido.creawebes.com/VuelosMartin/) — Aplicación autónoma de monitorización y alerta de vuelos económicos desde BCN (El Prat) optimizada bajo el principio de horas útiles vs precio.
+[Ver Repositorio](https://github.com/20Luisma/ViajesMartin) · 🌐 [Ver Demo en Producción](https://contenido.creawebes.com/VuelosMartin/) — Radar autónomo de vuelos chollo desde BCN con filtros inteligentes de horario, multi-aerolínea y sistema de agentes IA con memoria persistente.
 
 | Aspecto | Detalle |
 | --- | --- |
-| **Stack** | JavaScript (ES6+), PHP 8.2, PWA (Service Worker + Manifest), CSS Tokens |
-| **Scanners** | Multi-API (Ryanair FareFinder sin límites + Google Flights vía RapidAPI) |
-| **Resiliencia** | Pool rotativo multi-cuenta con fallback transparente ante cuotas 429/403 |
-| **Alertas & Automatización**| Bot de Telegram con push automático ante chollos nuevos + Cron diario en Hostinger |
-| **UX / UI** | Aviation Fintech Dark Mode, 100% Mobile Responsive táctil, filtros de tiempo útil |
+| **Stack** | PHP 8.2 · Vanilla JS · PWA · Apache · Hostinger VPS |
+| **Fuentes de datos** | Kiwi MCP (Vueling, easyJet, Wizz Air, Air Europa) · Ryanair FareFinder · Pool 11 claves RapidAPI |
+| **IA & Agentes** | Antigravity God-Mode · `AGENTS.md` v2.2 (23 reglas) · `MEMORY.md` persistente · Copiloto Gemini Flash |
+| **Seguridad** | Login por sesión PHP · `.env` blindado · `auth.php` · Headers HTTP · Rate limiting |
+| **Automatización** | Bot Telegram con alertas push · Cron desatendido 00:00h · Deploy via `bin/deploy.sh` |
+| **UX / UI** | Dark Mode · Glassmorphism · Micro-animaciones · 100% Mobile Responsive |
 
 ---
 
