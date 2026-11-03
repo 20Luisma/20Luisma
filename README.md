@@ -3,11 +3,13 @@
 **Desarrollador Web & Móvil | PHP · Flutter · Vue.js · AI Agent Architecture**
 
 > Construyendo soluciones digitales desde 2008. Especializado en sistemas de automatización con agentes IA, protocolos de ingeniería propios y productos reales que resuelven problemas reales.
+> **Disponible para posiciones remotas full-time o proyectos de alto impacto en IA.**
 
 <div align="center">
   <img src="https://img.shields.io/badge/EXPERIENCIA-DESDE%202008-informational?style=for-the-badge" />
   <img src="https://img.shields.io/badge/AI%20AGENTS-GOD--MODE-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/📍_ESPAÑA-Creawebes-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OPEN%20TO-REMOTE%20WORK-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📍_ESPAÑA-Barcelona-orange?style=for-the-badge" />
 </div>
 
 ---
@@ -23,10 +25,10 @@ Combino mi formación en diseño gráfico con el desarrollo técnico, lo que me 
 
 ## Experiencia Profesional 💼
 
-* **Fundador & Desarrollador Full Stack | Creawebes** *(2008 · Desde 2023)*
-  * Desarrollo integral de aplicaciones web, e-commerce y soluciones digitales a medida.
+* **Freelance Developer & AI Architect | Creawebes Studio** *(2008 · Desde 2023)*
+  * Desarrollo a medida de aplicaciones web, e-commerce y sistemas de automatización con IA para clientes.
   * Diseño e integración de plataformas escalables (PHP, Vue.js, Tailwind CSS).
-  * Gestión completa del ciclo de vida del software: desde la arquitectura hasta el despliegue.
+  * Gestión completa del ciclo de vida del software: arquitectura → desarrollo → deploy → mantenimiento.
 
 * **Desarrollador Móvil Multiplataforma** *(Actualidad)*
   * Desarrollo de apps nativas (Android y iOS) con Dart/Flutter aplicando Clean Architecture.
