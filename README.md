@@ -16,7 +16,7 @@
 
 ## Sobre mí
 
-Soy Martín,Desarrollador Freelance | Arquitecto de Sistemas e IA | Agentes Inteligentes y Automatización. Desde 2008 construyo soluciones digitales a medida bajo **Creawebes Studio**. Retomé con toda la energía en 2023, incorporando agentes IA, automatización y metodologías de ingeniería modernas.
+Soy Martín,desarrollador de software especializado en sistemas y aplicaciones con inteligencia artificial.| Agentes Inteligentes y Automatización. Desde 2008 construyo soluciones digitales a medida bajo **Creawebes Studio**. Retomé con toda la energía en 2023, incorporando agentes IA, automatización y metodologías de ingeniería modernas.
 
 Combino mi formación en diseño gráfico con el desarrollo técnico, lo que me permite tener una visión integral de cada proyecto: desde la arquitectura hasta la experiencia visual del usuario final.
 
