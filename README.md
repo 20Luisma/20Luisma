@@ -79,22 +79,23 @@ Combino mi formación en diseño gráfico con el desarrollo técnico, lo que me 
 
 ## Proyectos destacados 🚀
 
-### ✈️ [Viajes Martín — AI-Powered Flight Deal Radar](https://github.com/20Luisma/ViajesMartin)
+### 🚗 [ITV de Código — Gate Local de Calidad y DevSecOps (7 Estaciones)](https://github.com/20Luisma/itv-calidad)
 
-[Ver Repositorio](https://github.com/20Luisma/ViajesMartin) · 🌐 [Ver Demo en Producción](https://contenido.creawebes.com/VuelosMartin/) — Radar autónomo de vuelos chollo desde BCN con filtros inteligentes de horario, multi-aerolínea y sistema de agentes IA con memoria persistente.
+[![CI — ITV de Código](https://github.com/20Luisma/itv-calidad/actions/workflows/ci.yml/badge.svg)](https://github.com/20Luisma/itv-calidad/actions/workflows/ci.yml)
+
+[Ver Repositorio](https://github.com/20Luisma/itv-calidad) — Herramienta **100% local (CLI + Dashboard Web en cámara lenta)** en TypeScript que inspecciona cualquier repositorio (PHP, Node/TS, Python) antes de `git push` pasando por 7 estaciones reales de calidad y seguridad.
 
 | Aspecto | Detalle |
 | --- | --- |
-| **Stack** | PHP 8.2 · Vanilla JS · PWA · Apache · Hostinger VPS |
-| **Fuentes de datos** | Kiwi MCP (Vueling, easyJet, Wizz Air, Air Europa) · Ryanair FareFinder · Pool 11 claves RapidAPI |
-| **IA & Agentes** | Antigravity God-Mode · `AGENTS.md` v2.2 (23 reglas) · `MEMORY.md` persistente · Copiloto Gemini Flash |
-| **Seguridad** | Login por sesión PHP · `.env` blindado · `auth.php` · Headers HTTP · Rate limiting |
-| **Automatización** | Bot Telegram con alertas push · Cron desatendido 00:00h · Deploy via `bin/deploy.sh` |
-| **UX / UI** | Dark Mode · Glassmorphism · Micro-animaciones · 100% Mobile Responsive |
+| **Stack** | TypeScript · Node.js · CLI + Dashboard Web Local · Arquitectura Hexagonal |
+| **7 Estaciones** | Sintaxis · Tipos Estáticos · Tests + Cobertura · CVEs/Secretos/OWASP · Playwright E2E · WCAG 2.1 AA · Deuda Técnica / Sonar / Sentry |
+| **Seguridad** | Checklist OWASP ASVS Nivel 1 / Art. 32 RGPD · Evidencia exportable `.md` y `.json` · Cero cuentas obligatorias |
 
 ---
 
 ### 🦸 [Marvel — Clean Architecture & Microservicios IA en PHP](https://github.com/20Luisma/marvel)
+
+[![CI — Clean Marvel Tests](https://github.com/20Luisma/marvel/actions/workflows/ci.yml/badge.svg)](https://github.com/20Luisma/marvel/actions/workflows/ci.yml)
 
 [Ver Repositorio](https://github.com/20Luisma/marvel) — Aplicación PHP 8.4 construida como demostración de buenas prácticas y arquitectura profesional de grado empresarial.
 
@@ -103,29 +104,40 @@ Combino mi formación en diseño gráfico con el desarrollo técnico, lo que me 
 | **Stack** | PHP 8.4 + Clean Architecture + DDD (Domain-Driven Design) |
 | **IA** | Microservicios OpenAI (RAG) + n8n |
 | **Testing** | PHPUnit + Playwright E2E + PHPStan |
-| **CI/CD** | GitHub Actions + Docker + Kubernetes (k8s) |
-| **Calidad** | SonarQube + CodeRabbit + Lighthouse |
+| **CI/CD** | GitHub Actions (CI, Staging PR Preview, Monitoring, Rollback) + Docker + Kubernetes |
+| **Calidad** | SonarQube + CodeRabbit + Lighthouse + Security Sentinel |
 | **Patrones** | EventBus in-memory + JSON persistence |
 
 ---
 
-### 💰 [Gastos Naia — Sistema Financiero Multiplataforma](https://github.com/20Luisma/Gastos-Naia)
+### ✈️ [Viajes Martín — AI-Powered Flight Deal Radar](https://github.com/20Luisma/ViajesMartin)
 
-[Ver Repositorio Backend](https://github.com/20Luisma/Gastos-Naia) · [Ver App Flutter](https://github.com/20Luisma/app_gastosnaia) — Panel de control y aplicación móvil para la administración, categorización y control de gastos en tiempo real.
+[![CI — Calidad ITV](https://github.com/20Luisma/ViajesMartin/actions/workflows/ci.yml/badge.svg)](https://github.com/20Luisma/ViajesMartin/actions/workflows/ci.yml)
+
+[Ver Repositorio](https://github.com/20Luisma/ViajesMartin) · 🌐 [Ver Demo en Producción](https://contenido.creawebes.com/VuelosMartin/) — Radar autónomo de vuelos chollo desde BCN con filtros inteligentes de horario, multi-aerolínea, Copiloto IA y arnés ITV 7/7 en verde.
 
 | Aspecto | Detalle |
 | --- | --- |
-| **Stack** | PHP, MySQL, Dart, Flutter (Android & iOS) |
-| **Arquitectura** | REST API desacoplada, gestión de presupuestos, sincronización en la nube |
+| **Stack** | PHP 8.2 modular (`public/api/`) · ES Modules (`public/js/modules/`) · PWA · Hostinger VPS |
+| **Fuentes de datos** | Kiwi MCP (Vueling, easyJet, Wizz Air, Air Europa) · Ryanair FareFinder · RapidAPI |
+| **Calidad & CI** | TypeScript (`checkJs`) · Vitest (>80% cobertura) · Playwright E2E · 0 CVEs · ADR · GitHub Actions |
+| **IA & Agentes** | Antigravity God-Mode · `AGENTS.md` v2.2 · `MEMORY.md` persistente · Copiloto Gemini Flash |
+| **Seguridad** | Login por sesión PHP · `.env` blindado · `.htaccess` internos 403 · Observabilidad fail-safe |
+
+---
+
+### 🤖 Asistentes IA Especializados
+
+| Proyecto | Detalle |
+| --- | --- |
+| **[NikonCoach](https://github.com/20Luisma/Nikoncoach)** | Asistente inteligente de fotografía para cámaras Nikon en PHP 8.2 (recomendaciones de exposición, lentes y configuración). |
+| **[LuminaAdvisor](https://github.com/20Luisma/LuminaAdvisor)** | Asesor técnico inteligente de iluminación en PHP 8.2 con arquitectura modular y modo oscuro. |
 
 ---
 
 ### 📱 Aplicaciones Móviles — Publicadas en Google Play & App Store
 
-| Aplicación | Detalle |
-| --- | --- |
-| **Galería Nico** | [Ver Repositorio](https://github.com/20Luisma/Galeria-Nico) — App móvil en Dart/Flutter. Publicada en Google Play y App Store. |
-| **Viajando con Marta** | [Ver Repositorio](https://github.com/20Luisma/Viajando-con-Marta) — App móvil en Dart/Flutter. Publicada en Google Play y App Store. |
+* **Galería Nico** · **Viajando con Marta** · **Gastos Naia** — Apps móviles multiplataforma en **Dart / Flutter** con Clean Architecture *(repositorios privados)*.
 
 ---
 
