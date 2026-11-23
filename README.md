@@ -131,7 +131,7 @@ Combino mi formación en diseño gráfico con el desarrollo técnico, lo que me 
 | Proyecto | Detalle |
 | --- | --- |
 | **[NikonCoach](https://github.com/20Luisma/Nikoncoach)** | Asistente inteligente de fotografía para cámaras Nikon en PHP 8.2 (recomendaciones de exposición, lentes y configuración). |
-| **[LuminaAdvisor](https://github.com/20Luisma/LuminaAdvisor)** | Asesor técnico inteligente de iluminación en PHP 8.2 con arquitectura modular y modo oscuro. |
+| **[LuminaAdvisor](https://github.com/20Luisma/LuminaAdvisor)** | [![CI — LuminaAdvisor](https://github.com/20Luisma/LuminaAdvisor/actions/workflows/ci.yml/badge.svg)](https://github.com/20Luisma/LuminaAdvisor/actions/workflows/ci.yml) Asesor técnico inteligente de iluminación en PHP 8.2 con arquitectura modular, ITV 7/7 en verde y CI en GitHub Actions. |
 
 ---
 
