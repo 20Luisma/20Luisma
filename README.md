@@ -16,7 +16,7 @@
 
 ## Sobre mí
 
-Soy Martín,desarrollador de software especializado en sistemas y aplicaciones con inteligencia artificial.| Agentes Inteligentes y Automatización. Desde 2008 construyo soluciones digitales a medida bajo **Creawebes Studio**. Retomé con toda la energía en 2023, incorporando agentes IA, automatización y metodologías de ingeniería modernas.
+Soy Martín, desarrollador de software especializado en sistemas y aplicaciones con inteligencia artificial, Agentes Inteligentes y Automatización. Desde 2008 construyo soluciones digitales a medida bajo **Creawebes Studio**. Retomé con toda la energía en 2023, incorporando agentes IA, automatización y metodologías de ingeniería modernas.
 
 Combino mi formación en diseño gráfico con el desarrollo técnico, lo que me permite tener una visión integral de cada proyecto: desde la arquitectura hasta la experiencia visual del usuario final.
 
@@ -79,17 +79,20 @@ Combino mi formación en diseño gráfico con el desarrollo técnico, lo que me 
 
 ## Proyectos destacados 🚀
 
-### 🚗 [ITV de Código — Gate Local de Calidad y DevSecOps (7 Estaciones)](https://github.com/20Luisma/itv-calidad)
+### 🛡️ [ITV de Código — Extensión VS Code Marketplace, MCP App & Gate DevSecOps (7 Estaciones)](https://github.com/20Luisma/itv-calidad)
 
 [![CI — ITV de Código](https://github.com/20Luisma/itv-calidad/actions/workflows/ci.yml/badge.svg)](https://github.com/20Luisma/itv-calidad/actions/workflows/ci.yml)
+[![VS Code Marketplace](https://img.shields.io/badge/VS%20Code%20Marketplace-Publicada%20%C2%B7%201%20clic-007ACC?logo=visualstudiocode&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=20luisma.itv-calidad-vscode)
+[![MCP App](https://img.shields.io/badge/MCP%20Server%20%2B%20App-Stdio%20%2F%20ext--apps-7C3AED)](https://github.com/20Luisma/itv-calidad)
 
-[Ver Repositorio](https://github.com/20Luisma/itv-calidad) — Herramienta **100% local (CLI + Dashboard Web en cámara lenta)** en TypeScript que inspecciona cualquier repositorio (PHP, Node/TS, Python) antes de `git push` pasando por 7 estaciones reales de calidad y seguridad.
+🧩 **[Instalar en VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=20luisma.itv-calidad-vscode)** · 💻 **[Ver Repositorio](https://github.com/20Luisma/itv-calidad)** — Herramienta **100% local y de solo lectura** en TypeScript (**Extensión oficial de barra lateral en VS Code Marketplace + Servidor MCP & MCP App embebida + Dashboard Web SSE + CLI**) que inspecciona cualquier repositorio (PHP, Node/TS, Python) antes de `git push` pasando por 7 estaciones reales de calidad y seguridad.
 
 | Aspecto | Detalle |
 | --- | --- |
-| **Stack** | TypeScript · Node.js · CLI + Dashboard Web Local · Arquitectura Hexagonal |
-| **7 Estaciones** | Sintaxis · Tipos Estáticos · Tests + Cobertura · CVEs/Secretos/OWASP · Playwright E2E · WCAG 2.1 AA · Deuda Técnica / Sonar / Sentry |
-| **Seguridad** | Checklist OWASP ASVS Nivel 1 / Art. 32 RGPD · Evidencia exportable `.md` y `.json` · Cero cuentas obligatorias |
+| **Publicación** | **Extensión oficial en VS Code Marketplace** (`20luisma.itv-calidad-vscode`) + **Servidor MCP & MCP App** (Antigravity, Cursor, Claude Code, VS Code) |
+| **Stack** | TypeScript strict · Node.js · Clean Architecture · `@modelcontextprotocol/sdk` + `ext-apps` · VS Code Webview/TreeView · `SecretStorage` |
+| **7 Estaciones** | Sintaxis · Tipos Estáticos · Tests + Cobertura (`>=75%`) · CVEs/Secretos/OWASP · Playwright E2E · WCAG 2.1 AA · Deuda Técnica / Sonar / Sentry / GitHub |
+| **Seguridad** | Checklist OWASP ASVS Nivel 1 / Art. 32 RGPD · Evidencia exportable `.md` y `.json` · 0 CVEs · Cero cuentas obligatorias |
 
 ---
 
