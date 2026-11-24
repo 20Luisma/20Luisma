@@ -22,6 +22,7 @@ Combino mi formación en diseño gráfico con el desarrollo técnico, lo que me 
 
 🤖 Construyendo **sistemas de agentes IA con memoria persistente** — protocolos propios de ingeniería, seguridad y deploy que aplican a cualquier proyecto
 🔭 Explorando: arquitectura multi-agente, orquestación de LLMs y automatización end-to-end
+🚀 Publicaciones en producción en **4 tiendas oficiales**: **VS Code Marketplace · Google Play · App Store · Amazon Alexa Skills**
 
 ## Experiencia Profesional 💼
 
@@ -141,6 +142,10 @@ Combino mi formación en diseño gráfico con el desarrollo técnico, lo que me 
 ### 📱 Aplicaciones Móviles — Publicadas en Google Play & App Store
 
 * **Galería Nico** · **Viajando con Marta** · **Gastos Naia** — Apps móviles multiplataforma en **Dart / Flutter** con Clean Architecture *(repositorios privados)*.
+
+### 🎙️ Amazon Alexa Skills — Publicada en Alexa Skills Store
+
+* **[Correo Inteligente](https://www.amazon.es/dp/B0F2T1LC3J)** — Skill de voz publicada en producción en **Amazon Alexa (ES)** para gestión inteligente de correo electrónico.
 
 ---
 
