@@ -2,7 +2,7 @@
 
 **Desarrollador Web & Móvil | PHP · Flutter · Vue.js · AI Agent Architecture**
 
-> Construyendo soluciones digitales desde 2008. Especializado en sistemas de automatización con agentes IA, protocolos de ingeniería propios y productos reales que resuelven problemas reales.
+> Construyendo soluciones digitales desde 2008. Especializado en sistemas de automatización con agentes IA, protocolos de desarrollo propios y productos reales que resuelven problemas reales.
 > **Disponible para posiciones remotas full-time o proyectos de alto impacto en IA.**
 
 <div align="center">
@@ -16,11 +16,11 @@
 
 ## Sobre mí
 
-Soy Martín, desarrollador de software especializado en sistemas y aplicaciones con inteligencia artificial, Agentes Inteligentes y Automatización. Desde 2008 construyo soluciones digitales a medida bajo **Creawebes Studio**. Retomé con toda la energía en 2023, incorporando agentes IA, automatización y metodologías de ingeniería modernas.
+Soy Martín, desarrollador de software especializado en sistemas y aplicaciones con inteligencia artificial, Agentes Inteligentes y Automatización. Desde 2008 construyo soluciones digitales a medida bajo **Creawebes Studio**. Retomé con toda la energía en 2023, incorporando agentes IA, automatización y metodologías de desarrollo modernas.
 
 Combino mi formación en diseño gráfico con el desarrollo técnico, lo que me permite tener una visión integral de cada proyecto: desde la arquitectura hasta la experiencia visual del usuario final.
 
-🤖 Construyendo **sistemas de agentes IA con memoria persistente** — protocolos propios de ingeniería, seguridad y deploy que aplican a cualquier proyecto
+🤖 Construyendo **sistemas de agentes IA con memoria persistente** — protocolos propios de desarrollo, seguridad y deploy que aplican a cualquier proyecto
 🔭 Explorando: arquitectura multi-agente, orquestación de LLMs y automatización end-to-end
 🚀 Publicaciones en producción en **4 tiendas oficiales**: **VS Code Marketplace · Google Play · App Store · Amazon Alexa Skills**
 
