@@ -22,7 +22,7 @@ Combino mi formación en diseño gráfico con el desarrollo técnico, lo que me 
 
 🤖 Construyendo **sistemas de agentes IA con memoria persistente** — protocolos propios de desarrollo, seguridad y deploy que aplican a cualquier proyecto
 🔭 Explorando: arquitectura multi-agente, orquestación de LLMs y automatización end-to-end
-🚀 Publicaciones en producción en **4 tiendas oficiales**: **VS Code Marketplace · Google Play · App Store · Amazon Alexa Skills**
+🚀 Publicaciones en producción en **5 tiendas oficiales**: **VS Code Marketplace · Open VSX · Google Play · App Store · Amazon Alexa Skills**
 
 ## Experiencia Profesional 💼
 
@@ -84,9 +84,10 @@ Combino mi formación en diseño gráfico con el desarrollo técnico, lo que me 
 
 [![CI — ITV de Código](https://github.com/20Luisma/itv-calidad/actions/workflows/ci.yml/badge.svg)](https://github.com/20Luisma/itv-calidad/actions/workflows/ci.yml)
 [![VS Code Marketplace](https://img.shields.io/badge/VS%20Code%20Marketplace-Publicada%20%C2%B7%201%20clic-007ACC?logo=visualstudiocode&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=20luisma.itv-calidad-vscode)
+[![Open VSX](https://img.shields.io/badge/Open%20VSX-Antigravity%20%C2%B7%20Cursor%20%C2%B7%20Windsurf-A60EE5)](https://open-vsx.org/extension/20luisma/itv-calidad-vscode)
 [![MCP App](https://img.shields.io/badge/MCP%20Server%20%2B%20App-Stdio%20%2F%20ext--apps-7C3AED)](https://github.com/20Luisma/itv-calidad)
 
-🧩 **[Instalar en VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=20luisma.itv-calidad-vscode)** · 💻 **[Ver Repositorio](https://github.com/20Luisma/itv-calidad)** — Herramienta **100% local y de solo lectura** en TypeScript (**Extensión oficial de barra lateral en VS Code Marketplace + Servidor MCP & MCP App embebida + Dashboard Web SSE + CLI**) que inspecciona cualquier repositorio (PHP, Node/TS, Python) antes de `git push` pasando por 7 estaciones reales de calidad y seguridad.
+🧩 **[VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=20luisma.itv-calidad-vscode)** · 🟣 **[Open VSX (Antigravity/Cursor/Windsurf)](https://open-vsx.org/extension/20luisma/itv-calidad-vscode)** · 💻 **[Ver Repositorio](https://github.com/20Luisma/itv-calidad)** — Herramienta **100% local y de solo lectura** en TypeScript (**Extensión oficial de barra lateral en VS Code Marketplace + Servidor MCP & MCP App embebida + Dashboard Web SSE + CLI**) que inspecciona cualquier repositorio (PHP, Node/TS, Python) antes de `git push` pasando por 7 estaciones reales de calidad y seguridad.
 
 | Aspecto | Detalle |
 | --- | --- |
