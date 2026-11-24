@@ -26,7 +26,7 @@ Combino mi formación en diseño gráfico con el desarrollo técnico, lo que me 
 
 ## Experiencia Profesional 💼
 
-* **Freelance Developer & AI Architect | Creawebes Studio** *(2008 · Desde 2023)*
+* **Freelance Developer & AI Architect | Creawebes Studio** *(2008 – Actualidad)*
   * Desarrollo a medida de aplicaciones web, e-commerce y sistemas de automatización con IA para clientes.
   * Diseño e integración de plataformas escalables (PHP, Vue.js, Tailwind CSS).
   * Gestión completa del ciclo de vida del software: arquitectura → desarrollo → deploy → mantenimiento.
