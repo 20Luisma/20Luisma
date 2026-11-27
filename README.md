@@ -22,7 +22,7 @@ Combino mi formación en diseño gráfico con el desarrollo técnico, lo que me 
 
 🤖 Construyendo **sistemas de agentes IA con memoria persistente** — protocolos propios de desarrollo, seguridad y deploy que aplican a cualquier proyecto
 🔭 Explorando: arquitectura multi-agente, orquestación de LLMs y automatización end-to-end
-🚀 Publicaciones en producción en **5 tiendas oficiales**: **VS Code Marketplace · Open VSX · Google Play · App Store · Amazon Alexa Skills**
+🚀 Publicaciones en producción en **6 tiendas y registros oficiales**: **VS Code Marketplace · Open VSX · npm · Google Play · App Store · Amazon Alexa Skills**
 
 ## Experiencia Profesional 💼
 
@@ -85,13 +85,15 @@ Combino mi formación en diseño gráfico con el desarrollo técnico, lo que me 
 [![CI — ITV de Código](https://github.com/20Luisma/itv-calidad/actions/workflows/ci.yml/badge.svg)](https://github.com/20Luisma/itv-calidad/actions/workflows/ci.yml)
 [![VS Code Marketplace](https://img.shields.io/badge/VS%20Code%20Marketplace-Publicada%20%C2%B7%201%20clic-007ACC?logo=visualstudiocode&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=20luisma.itv-calidad-vscode)
 [![Open VSX](https://img.shields.io/badge/Open%20VSX-Antigravity%20%C2%B7%20Cursor%20%C2%B7%20Windsurf-A60EE5)](https://open-vsx.org/extension/20luisma/itv-calidad-vscode)
+[![npm](https://img.shields.io/npm/v/itv-calidad?logo=npm&color=CB3837&label=npm)](https://www.npmjs.com/package/itv-calidad)
+[![M8ven Score](https://m8ven.ai/badge/mcp/20luisma-itv-calidad-ksuhsn?v=c7fd12a82c8e9dddf091f2381441116a)](https://m8ven.ai/mcp/20luisma-itv-calidad-ksuhsn?s=readme)
 [![MCP App](https://img.shields.io/badge/MCP%20Server%20%2B%20App-Stdio%20%2F%20ext--apps-7C3AED)](https://github.com/20Luisma/itv-calidad)
 
-🧩 **[VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=20luisma.itv-calidad-vscode)** · 🟣 **[Open VSX (Antigravity/Cursor/Windsurf)](https://open-vsx.org/extension/20luisma/itv-calidad-vscode)** · 💻 **[Ver Repositorio](https://github.com/20Luisma/itv-calidad)** — Herramienta **100% local y de solo lectura** en TypeScript (**Extensión oficial de barra lateral en VS Code Marketplace + Servidor MCP & MCP App embebida + Dashboard Web SSE + CLI**) que inspecciona cualquier repositorio (PHP, Node/TS, Python) antes de `git push` pasando por 7 estaciones reales de calidad y seguridad.
+🧩 **[VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=20luisma.itv-calidad-vscode)** · 🟣 **[Open VSX](https://open-vsx.org/extension/20luisma/itv-calidad-vscode)** · 📦 **[npm (`npx itv-calidad`)](https://www.npmjs.com/package/itv-calidad)** · 💻 **[Ver Repositorio](https://github.com/20Luisma/itv-calidad)** — Herramienta **100% local y de solo lectura** en TypeScript (**Extensión oficial de barra lateral en VS Code Marketplace + Servidor MCP & MCP App embebida + Dashboard Web SSE + CLI**) que inspecciona cualquier repositorio (PHP, Node/TS, Python) antes de `git push` pasando por 7 estaciones reales de calidad y seguridad.
 
 | Aspecto | Detalle |
 | --- | --- |
-| **Publicación** | **Extensión oficial en VS Code Marketplace** (`20luisma.itv-calidad-vscode`) + **Servidor MCP & MCP App** (Antigravity, Cursor, Claude Code, VS Code) |
+| **Publicación** | **VS Code Marketplace** + **Open VSX** (`20luisma.itv-calidad-vscode` · EN/ES) + **npm** (`npx -y itv-calidad --mcp`) + **M8ven Trust Index (B)** |
 | **Stack** | TypeScript strict · Node.js · Clean Architecture · `@modelcontextprotocol/sdk` + `ext-apps` · VS Code Webview/TreeView · `SecretStorage` |
 | **7 Estaciones** | Sintaxis · Tipos Estáticos · Tests + Cobertura (`>=75%`) · CVEs/Secretos/OWASP · Playwright E2E · WCAG 2.1 AA · Deuda Técnica / Sonar / Sentry / GitHub |
 | **Seguridad** | Checklist OWASP ASVS Nivel 1 / Art. 32 RGPD · Evidencia exportable `.md` y `.json` · 0 CVEs · Cero cuentas obligatorias |
