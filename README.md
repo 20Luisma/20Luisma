@@ -4,14 +4,14 @@
   <img alt="Martín Pallante — Software y Sistemas con Agentes IA" src="assets/header-light.svg" width="100%" />
 </picture>
 
-**Desarrollador Web & Móvil | PHP · Flutter · Vue.js · AI Agent Architecture**
+**Desarrollador Full-Stack & Móvil | TypeScript · PHP · Flutter · Sistemas con Agentes IA**
 
 > Construyendo soluciones digitales desde 2008. Especializado en sistemas de automatización con agentes IA, protocolos de desarrollo propios y productos reales que resuelven problemas reales.
 > **Disponible para posiciones remotas full-time o proyectos de alto impacto en IA.**
 
 <div align="center">
   <img src="https://img.shields.io/badge/EXPERIENCIA-DESDE%202008-informational?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI%20AGENTS-GOD--MODE-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/7%20TIENDAS-EN%20PRODUCCI%C3%93N-2563eb?style=for-the-badge" />
   <img src="https://img.shields.io/badge/OPEN%20TO-REMOTE%20WORK-success?style=for-the-badge" />
   <img src="https://img.shields.io/badge/📍_ESPAÑA-Barcelona-orange?style=for-the-badge" />
 </div>
@@ -30,7 +30,7 @@ Combino mi formación en diseño gráfico con el desarrollo técnico, lo que me 
 
 ## Experiencia Profesional 💼
 
-* **Freelance Developer & AI Architect | Creawebes Studio** *(2008 – Actualidad)*
+* **Desarrollador Full-Stack & Automatización IA | Creawebes Studio** *(2008 – Actualidad)*
   * Desarrollo a medida de aplicaciones web, e-commerce y sistemas de automatización con IA para clientes.
   * Diseño e integración de plataformas escalables (PHP, Vue.js, Tailwind CSS).
   * Gestión completa del ciclo de vida del software: arquitectura → desarrollo → deploy → mantenimiento.
@@ -52,6 +52,7 @@ Combino mi formación en diseño gráfico con el desarrollo técnico, lo que me 
 <div align="center">
 
 ### Backend
+![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
@@ -95,7 +96,7 @@ Combino mi formación en diseño gráfico con el desarrollo técnico, lo que me 
 [![M8ven Score](https://m8ven.ai/badge/mcp/20luisma-itv-calidad-ksuhsn?v=c7fd12a82c8e9dddf091f2381441116a)](https://m8ven.ai/mcp/20luisma-itv-calidad-ksuhsn?s=readme)
 [![MCP App](https://img.shields.io/badge/MCP%20Server%20%2B%20App-Stdio%20%2F%20ext--apps-7C3AED)](https://github.com/20Luisma/itv-calidad)
 
-🧩 **[VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=20luisma.itv-calidad-vscode)** · 🟣 **[Open VSX](https://open-vsx.org/extension/20luisma/itv-calidad-vscode)** · 📦 **[npm (`npx itv-calidad`)](https://www.npmjs.com/package/itv-calidad)** · 💻 **[Ver Repositorio](https://github.com/20Luisma/itv-calidad)** — Herramienta **100% local y de solo lectura** en TypeScript (**Extensión oficial de barra lateral en VS Code Marketplace + Servidor MCP & MCP App embebida + Dashboard Web SSE + CLI**) que inspecciona cualquier repositorio (PHP, Node/TS, Python) antes de `git push` pasando por 7 estaciones reales de calidad y seguridad.
+🧩 **[VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=20luisma.itv-calidad-vscode)** · 🟣 **[Open VSX](https://open-vsx.org/extension/20luisma/itv-calidad-vscode)** · 📦 **[npm (`npx itv-calidad`)](https://www.npmjs.com/package/itv-calidad)** · 💻 **[Ver Repositorio](https://github.com/20Luisma/itv-calidad)** — Herramienta **100% local y de solo lectura** en TypeScript (**Extensión oficial de barra lateral en VS Code Marketplace + Servidor MCP & MCP App embebida + Dashboard Web SSE + CLI**) que inspecciona cualquier repositorio (Node/TS, PHP, Python, .NET/C#, Go y Flutter/Dart) antes de `git push` pasando por 7 estaciones reales de calidad y seguridad.
 
 | Aspecto | Detalle |
 | --- | --- |
@@ -134,7 +135,7 @@ Combino mi formación en diseño gráfico con el desarrollo técnico, lo que me 
 | **Stack** | PHP 8.2 modular (`public/api/`) · ES Modules (`public/js/modules/`) · PWA · Hostinger VPS |
 | **Fuentes de datos** | Kiwi MCP (Vueling, easyJet, Wizz Air, Air Europa) · Ryanair FareFinder · RapidAPI |
 | **Calidad & CI** | TypeScript (`checkJs`) · Vitest (>80% cobertura) · Playwright E2E · 0 CVEs · ADR · GitHub Actions |
-| **IA & Agentes** | Antigravity God-Mode · `AGENTS.md` v2.2 · `MEMORY.md` persistente · Copiloto Gemini Flash |
+| **IA & Agentes** | Flujos con agentes IA · `AGENTS.md` v2.2 · `MEMORY.md` persistente · Copiloto Gemini Flash |
 | **Seguridad** | Login por sesión PHP · `.env` blindado · `.htaccess` internos 403 · Observabilidad fail-safe |
 
 ---
