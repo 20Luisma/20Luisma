@@ -1,0 +1,128 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 156" width="860" height="156" role="img" aria-label="Martín Pallante — Software y Sistemas con Agentes IA">
+  <defs>
+    <linearGradient id="cardBgLight" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff" />
+      <stop offset="100%" stop-color="#f8fafc" />
+    </linearGradient>
+
+    <linearGradient id="accentLineLight" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0f172a" stop-opacity="0.12" />
+      <stop offset="35%" stop-color="#2563eb" stop-opacity="0.75" />
+      <stop offset="65%" stop-color="#10b981" stop-opacity="0.75" />
+      <stop offset="100%" stop-color="#0f172a" stop-opacity="0.06" />
+    </linearGradient>
+
+    <linearGradient id="sheenLight" x1="-30%" y1="0%" x2="130%" y2="0%">
+      <stop offset="0%" stop-color="#0f172a" />
+      <stop offset="44%" stop-color="#0f172a" />
+      <stop offset="50%" stop-color="#2563eb" />
+      <stop offset="56%" stop-color="#0f172a" />
+      <stop offset="100%" stop-color="#0f172a" />
+      <animate attributeName="x1" values="-120%;120%;120%" keyTimes="0;0.45;1" dur="7s" repeatCount="indefinite" />
+      <animate attributeName="x2" values="0%;240%;240%" keyTimes="0;0.45;1" dur="7s" repeatCount="indefinite" />
+    </linearGradient>
+
+    <clipPath id="cardClipLight">
+      <rect x="0.75" y="0.75" width="858.5" height="154.5" rx="14" />
+    </clipPath>
+  </defs>
+
+  <style>
+    .eyebrow {
+      font-family: 'SFMono-Regular', ui-monospace, 'Cascadia Code', Menlo, Consolas, monospace;
+      font-size: 11px;
+      font-weight: 500;
+      letter-spacing: 0.14em;
+      fill: #64748b;
+    }
+    .name {
+      font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+      font-size: 38px;
+      font-weight: 700;
+      letter-spacing: -0.025em;
+      fill: url(#sheenLight);
+    }
+    .pill-text {
+      font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+      font-size: 12px;
+      font-weight: 500;
+      fill: #047857;
+    }
+    .phrase {
+      font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+      font-size: 15px;
+      font-weight: 450;
+      fill: #334155;
+      opacity: 0;
+    }
+    .p1 { animation: fadeCycle 12s ease-in-out infinite 0s; }
+    .p2 { animation: fadeCycle 12s ease-in-out infinite 4s; }
+    .p3 { animation: fadeCycle 12s ease-in-out infinite 8s; }
+
+    .dot-ring {
+      transform-box: fill-box;
+      transform-origin: center;
+      animation: pulseRing 2.8s cubic-bezier(0.22, 1, 0.36, 1) infinite;
+    }
+
+    .line-glow {
+      animation: slideGlow 6s ease-in-out infinite;
+    }
+
+    @keyframes fadeCycle {
+      0%   { opacity: 0; transform: translateY(4px); }
+      6%   { opacity: 1; transform: translateY(0); }
+      28%  { opacity: 1; transform: translateY(0); }
+      34%  { opacity: 0; transform: translateY(-4px); }
+      100% { opacity: 0; transform: translateY(-4px); }
+    }
+
+    @keyframes pulseRing {
+      0%   { opacity: 0.55; transform: scale(1); }
+      70%  { opacity: 0; transform: scale(2.4); }
+      100% { opacity: 0; transform: scale(2.4); }
+    }
+
+    @keyframes slideGlow {
+      0%, 100% { opacity: 0.55; }
+      50%      { opacity: 1; }
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      .p1 { opacity: 1; animation: none; }
+      .p2, .p3 { opacity: 0; animation: none; }
+      .dot-ring, .line-glow { animation: none; opacity: 0.4; }
+    }
+  </style>
+
+  <!-- Card -->
+  <rect x="0.75" y="0.75" width="858.5" height="154.5" rx="14" fill="url(#cardBgLight)" stroke="#e2e8f0" stroke-width="1.2" />
+
+  <!-- Subtle top atmospheric tint -->
+  <g clip-path="url(#cardClipLight)">
+    <ellipse cx="760" cy="-10" rx="220" ry="90" fill="#2563eb" opacity="0.045" />
+    <ellipse cx="110" cy="175" rx="190" ry="70" fill="#10b981" opacity="0.045" />
+  </g>
+
+  <!-- Eyebrow -->
+  <text x="36" y="38" class="eyebrow">20LUISMA · BARCELONA</text>
+
+  <!-- Status pill (top right) -->
+  <g transform="translate(658, 22)">
+    <rect x="0" y="0" width="166" height="26" rx="13" fill="#ecfdf5" stroke="#a7f3d0" stroke-width="1" />
+    <circle cx="16" cy="13" r="3.5" fill="#10b981" class="dot-ring" />
+    <circle cx="16" cy="13" r="3.5" fill="#10b981" />
+    <text x="28" y="17" class="pill-text">Disponible · Remoto</text>
+  </g>
+
+  <!-- Main Name -->
+  <text x="36" y="86" class="name">Martín Pallante</text>
+
+  <!-- Fine accent hairline -->
+  <rect x="36" y="102" width="788" height="1.5" rx="0.75" fill="url(#accentLineLight)" class="line-glow" />
+
+  <!-- Rotating phrases (smooth fade) -->
+  <text x="36" y="131" class="phrase p1">Software y Sistemas con Agentes IA · Desde 2008</text>
+  <text x="36" y="131" class="phrase p2">Creador de ITV de Código · Calidad y Seguridad Local</text>
+  <text x="36" y="131" class="phrase p3">Productos en producción en 7 tiendas y registros oficiales</text>
+</svg>
