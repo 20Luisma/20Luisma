@@ -1,4 +1,8 @@
-# Martín Pallante
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg" />
+  <img alt="Martín Pallante — Software y Sistemas con Agentes IA" src="assets/header-light.svg" width="100%" />
+</picture>
 
 **Desarrollador Web & Móvil | PHP · Flutter · Vue.js · AI Agent Architecture**
 
