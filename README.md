@@ -6,11 +6,11 @@
 
 **Desarrollador Full-Stack & Móvil | TypeScript · PHP · Flutter · Sistemas con Agentes IA**
 
-> Construyendo soluciones digitales desde 2008. Especializado en sistemas de automatización con agentes IA, protocolos de desarrollo propios y productos reales que resuelven problemas reales.
+> En diseño y desarrollo web desde 2008, y desde 2023 enfocado en aplicaciones full-stack, apps móviles, calidad automatizada y herramientas con agentes de IA.
 > **Disponible para posiciones remotas full-time o proyectos de alto impacto en IA.**
 
 <div align="center">
-  <img src="https://img.shields.io/badge/EXPERIENCIA-DESDE%202008-informational?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/EN%20WEB-DESDE%202008-informational?style=for-the-badge" />
   <img src="https://img.shields.io/badge/7%20TIENDAS-EN%20PRODUCCI%C3%93N-2563eb?style=for-the-badge" />
   <img src="https://img.shields.io/badge/OPEN%20TO-REMOTE%20WORK-success?style=for-the-badge" />
   <img src="https://img.shields.io/badge/📍_ESPAÑA-Barcelona-orange?style=for-the-badge" />
@@ -20,7 +20,7 @@
 
 ## Sobre mí
 
-Soy Martín, desarrollador de software especializado en sistemas y aplicaciones con inteligencia artificial, Agentes Inteligentes y Automatización. Desde 2008 desarrollo software y productos digitales de forma independiente (bajo el nombre Creawebes), y desde 2023 enfocado en agentes de IA, automatización y calidad de código. Actualmente busco incorporarme a tiempo completo en remoto a un equipo de producto.
+Soy Martín, desarrollador de software especializado en sistemas y aplicaciones con inteligencia artificial, Agentes Inteligentes y Automatización. Desde 2008 trabajo en diseño y desarrollo web para clientes reales (sitios a medida con PHP y front-end bajo el nombre Creawebes). Desde 2023 di el salto al desarrollo de aplicaciones completas (TypeScript, Node.js, PHP 8, Flutter/Dart), pruebas automatizadas, seguridad y herramientas para agentes de IA. Actualmente busco incorporarme a tiempo completo en remoto a un equipo de producto.
 
 Combino mi formación en diseño gráfico con el desarrollo técnico, lo que me permite tener una visión integral de cada proyecto: desde la arquitectura hasta la experiencia visual del usuario final.
 
@@ -30,10 +30,9 @@ Combino mi formación en diseño gráfico con el desarrollo técnico, lo que me 
 
 ## Experiencia Profesional 💼
 
-* **Desarrollador Full-Stack & Automatización IA (Actividad Independiente · Creawebes)** *(2008 – Actualidad)*
-  * Desarrollo a medida de aplicaciones web, e-commerce y sistemas de automatización con IA para clientes.
-  * Diseño e integración de plataformas escalables (PHP, Vue.js, Tailwind CSS).
-  * Gestión completa del ciclo de vida del software: arquitectura → desarrollo → deploy → mantenimiento.
+* **Desarrollador Web Independiente (Creawebes)** *(2008 – Actualidad)*
+  * Diseño y desarrollo de sitios web a medida, e-commerce y mantenimiento en producción para clientes (HTML, CSS, PHP, JavaScript).
+  * Desde 2023: evolución hacia aplicaciones full-stack (TypeScript, Node.js, PHP 8, Vue.js), automatización con agentes de IA, testing automatizado (Vitest, PHPUnit, Playwright) y CI/CD en GitHub Actions.
 
 * **Desarrollador Móvil Multiplataforma** *(Actualidad)*
   * Desarrollo de apps nativas (Android y iOS) con Dart/Flutter aplicando Clean Architecture.
