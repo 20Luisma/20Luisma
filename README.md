@@ -20,7 +20,7 @@
 
 ## Sobre mí
 
-Soy Martín, desarrollador de software especializado en sistemas y aplicaciones con inteligencia artificial, Agentes Inteligentes y Automatización. Desde 2008 construyo soluciones digitales a medida bajo **Creawebes Studio**. Retomé con toda la energía en 2023, incorporando agentes IA, automatización y metodologías de desarrollo modernas.
+Soy Martín, desarrollador de software especializado en sistemas y aplicaciones con inteligencia artificial, Agentes Inteligentes y Automatización. Desde 2008 desarrollo software y productos digitales de forma independiente (bajo el nombre Creawebes), y desde 2023 enfocado en agentes de IA, automatización y calidad de código. Actualmente busco incorporarme a tiempo completo en remoto a un equipo de producto.
 
 Combino mi formación en diseño gráfico con el desarrollo técnico, lo que me permite tener una visión integral de cada proyecto: desde la arquitectura hasta la experiencia visual del usuario final.
 
@@ -30,7 +30,7 @@ Combino mi formación en diseño gráfico con el desarrollo técnico, lo que me 
 
 ## Experiencia Profesional 💼
 
-* **Desarrollador Full-Stack & Automatización IA | Creawebes Studio** *(2008 – Actualidad)*
+* **Desarrollador Full-Stack & Automatización IA (Actividad Independiente · Creawebes)** *(2008 – Actualidad)*
   * Desarrollo a medida de aplicaciones web, e-commerce y sistemas de automatización con IA para clientes.
   * Diseño e integración de plataformas escalables (PHP, Vue.js, Tailwind CSS).
   * Gestión completa del ciclo de vida del software: arquitectura → desarrollo → deploy → mantenimiento.
